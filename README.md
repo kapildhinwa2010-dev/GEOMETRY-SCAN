@@ -1,5 +1,7 @@
 # GEOMETRY-SCAN
 
+[![Stars](https://img.shields.io/github/stars/kapildhinwa2010-dev/GEOMETRY-SCAN?style=flat-square)](https://github.com/kapildhinwa2010-dev/GEOMETRY-SCAN/stargazers) [![Forks](https://img.shields.io/github/forks/kapildhinwa2010-dev/GEOMETRY-SCAN?style=flat-square)](https://github.com/kapildhinwa2010-dev/GEOMETRY-SCAN/network/members) [![Issues](https://img.shields.io/github/issues/kapildhinwa2010-dev/GEOMETRY-SCAN?style=flat-square)](https://github.com/kapildhinwa2010-dev/GEOMETRY-SCAN/issues) [![Top language](https://img.shields.io/github/languages/top/kapildhinwa2010-dev/GEOMETRY-SCAN?style=flat-square)](https://github.com/kapildhinwa2010-dev/GEOMETRY-SCAN)
+
 The shape of the world inside a model: per-layer intrinsic dimension, anisotropy cone strength, and variance spectrum.
 
 Hidden states at every layer sit in a space with measurable geometry. Some layers squeeze states into a thin cone around one direction; others spread them across the full width. GEOMETRY-SCAN turns that shape into numbers.
